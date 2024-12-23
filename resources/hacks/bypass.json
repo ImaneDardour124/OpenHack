@@ -290,7 +290,7 @@
     {
       "type": "toggle",
       "title": "Moderator Bypass",
-      "description": "Makes moderator-only buttons visible.",
+      "description": "I can't rate levels in gdps!",
       "id": "bypass.modbypass",
       "opcodes": [
         {
